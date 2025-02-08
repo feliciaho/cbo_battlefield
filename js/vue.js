@@ -1,5 +1,5 @@
-// var api = "/api/event240205_api";
-var api = "http://192.168.0.41:8088/api/event240205_api";
+var api = "/api/event240205_api";
+// var api = "http://192.168.0.41:8088/api/event240205_api";
 Vue.createApp({
     // 將php與vue語法衝突更換
     delimiters: ["%{", "}"],
